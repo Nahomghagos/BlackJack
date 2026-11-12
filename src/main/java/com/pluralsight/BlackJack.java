@@ -14,7 +14,7 @@ public class BlackJack {
 
         Hand hand = new Hand();
         Deck deck = new Deck();
-        Card card = new Card( firstName ,secondName);
+        Card card = new Card( firstName ,secondName);;
 
 
 
